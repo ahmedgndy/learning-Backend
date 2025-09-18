@@ -1,0 +1,5 @@
+@base = http://localhost:5236
+
+### int constrains 
+
+GET {{base}}/int/1afd23

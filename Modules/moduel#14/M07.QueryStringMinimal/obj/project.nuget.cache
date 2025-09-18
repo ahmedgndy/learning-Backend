@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yxv+cIHyW7E=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\El-Wattaneya\\Desktop\\APSNEy\\moduel#14\\M07.QueryStringMinimal\\M07.QueryStringMinimal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\asp.versioning.abstractions\\8.1.0\\asp.versioning.abstractions.8.1.0.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\asp.versioning.http\\8.1.0\\asp.versioning.http.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

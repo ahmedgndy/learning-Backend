@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemEviormentVariableProvider", "SystemEviormentVariableProvider.csproj", "{2B9023C3-266B-E2C9-C65F-50E141C35D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B9023C3-266B-E2C9-C65F-50E141C35D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9023C3-266B-E2C9-C65F-50E141C35D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9023C3-266B-E2C9-C65F-50E141C35D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9023C3-266B-E2C9-C65F-50E141C35D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B8BFA73-BD55-47B1-9425-52CC9C573E15}
+	EndGlobalSection
+EndGlobal

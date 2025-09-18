@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "middelware m2 (branching)/1.0.0": {
+        "runtime": {
+          "middelware m2 (branching).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "middelware m2 (branching)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

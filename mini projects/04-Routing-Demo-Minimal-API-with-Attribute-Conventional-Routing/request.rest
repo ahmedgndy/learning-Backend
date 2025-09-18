@@ -1,0 +1,15 @@
+@base = http://localhost:5152
+
+###Generate Url 
+Get {{base}}/generate/order/1898
+
+###Request using OrderController 
+
+Get {{base}}/orders
+
+###Request using OrderController / id 
+// using constrains to  the order id between 10 and 18 
+Get {{base}}/orders/18
+
+###Request to test my Custom Constraint 
+Get {{base}}/orders/month/1

@@ -1,0 +1,8 @@
+@base = http://localhost:5247
+
+### get  products
+
+GET {{base}}/products
+
+###
+GET {{base}}/products/all

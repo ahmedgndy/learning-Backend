@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5893F9sACBY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\El-Wattaneya\\Desktop\\APSNEy\\moduel#14\\m06-UrlPathApiVertioningMinimalApi\\m06-UrlPathApiVertioningMinimalApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\asp.versioning.abstractions\\8.1.0\\asp.versioning.abstractions.8.1.0.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\asp.versioning.http\\8.1.0\\asp.versioning.http.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

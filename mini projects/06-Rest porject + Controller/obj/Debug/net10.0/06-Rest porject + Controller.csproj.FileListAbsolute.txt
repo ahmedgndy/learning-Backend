@@ -1,0 +1,28 @@
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\bin\Debug\net10.0\appsettings.json
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\bin\Debug\net10.0\06-Rest porject + Controller.staticwebassets.endpoints.json
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\bin\Debug\net10.0\06-Rest porject + Controller.exe
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\bin\Debug\net10.0\06-Rest porject + Controller.deps.json
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\bin\Debug\net10.0\06-Rest porject + Controller.runtimeconfig.json
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\bin\Debug\net10.0\06-Rest porject + Controller.dll
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\bin\Debug\net10.0\06-Rest porject + Controller.pdb
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\06-Rest porject + Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\06-Rest porject + Controller.AssemblyInfoInputs.cache
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\06-Rest porject + Controller.AssemblyInfo.cs
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\06-Rest porject + Controller.csproj.CoreCompileInputs.cache
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\06-Rest porject + Controller.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\scopedcss\bundle\06-Rest porject + Controller.styles.css
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\06-Rest porject + Controller.dll
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\refint\06-Rest porject + Controller.dll
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\06-Rest porject + Controller.pdb
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\06-Rest porject + Controller.genruntimeconfig.cache
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\ref\06-Rest porject + Controller.dll
+C:\Users\El-Wattaneya\Desktop\mini projects\06-Rest porject + Controller\obj\Debug\net10.0\06-Rest porject + Controller.sourcelink.json

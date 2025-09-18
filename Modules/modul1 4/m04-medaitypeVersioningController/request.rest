@@ -1,0 +1,13 @@
+@baseUrl = http://localhost:5077
+@productId = 2779ee47-10b0-4bd7-8342-404006aa1392
+
+
+GET {{baseUrl}}/api/products/{{productId}}
+
+###v1
+GET {{baseUrl}}/api/products/{{productId}}
+Accept: : application/json; v=1.0
+
+###v1
+GET {{baseUrl}}/api/products/{{productId}}
+Accept: : application/json; v=2.0

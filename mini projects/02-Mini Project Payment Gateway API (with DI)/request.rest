@@ -1,0 +1,19 @@
+@base = http://localhost:5129 
+
+
+### post using String
+POST {{base}}/pay/paypal/100
+
+
+
+### post using Paypal
+
+POST {{base}}/pay/visa/200
+
+
+### test faking data 
+POST {{base}}/pay/fake/300
+
+### LIFTTIMES
+
+GET {{base}}/di/lifTimes

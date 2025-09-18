@@ -1,0 +1,41 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "../../AppData/Roaming/Code/User/workspaceStorage/e5cec484ea7e5c52a91dc4f6ed5d32b5/ms-dotnettools.csdevkit/Routing.sln",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary;ForceNoAlign"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "../../AppData/Roaming/Code/User/workspaceStorage/e5cec484ea7e5c52a91dc4f6ed5d32b5/ms-dotnettools.csdevkit/Routing.sln",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary;ForceNoAlign"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "--project",
+                "../../AppData/Roaming/Code/User/workspaceStorage/e5cec484ea7e5c52a91dc4f6ed5d32b5/ms-dotnettools.csdevkit/Routing.sln"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

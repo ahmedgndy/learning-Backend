@@ -1,0 +1,7 @@
+@baseurl =http://localhost:5001
+###
+{{{{baseurl}}}}/single
+
+
+###
+{{{{baseurl}}}}/weather/city/{cityName}

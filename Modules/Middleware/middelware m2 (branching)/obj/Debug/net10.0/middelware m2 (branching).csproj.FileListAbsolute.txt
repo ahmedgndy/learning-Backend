@@ -1,0 +1,27 @@
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\bin\Debug\net10.0\appsettings.json
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\bin\Debug\net10.0\middelware m2 (branching).staticwebassets.endpoints.json
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\bin\Debug\net10.0\middelware m2 (branching).exe
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\bin\Debug\net10.0\middelware m2 (branching).deps.json
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\bin\Debug\net10.0\middelware m2 (branching).runtimeconfig.json
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\bin\Debug\net10.0\middelware m2 (branching).dll
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\bin\Debug\net10.0\middelware m2 (branching).pdb
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\middelware m2 (branching).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\middelware m2 (branching).AssemblyInfoInputs.cache
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\middelware m2 (branching).AssemblyInfo.cs
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\middelware m2 (branching).csproj.CoreCompileInputs.cache
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\middelware m2 (branching).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\scopedcss\bundle\middelware m2 (branching).styles.css
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\middelware m2 (branching).dll
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\refint\middelware m2 (branching).dll
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\middelware m2 (branching).pdb
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\middelware m2 (branching).genruntimeconfig.cache
+C:\Users\El-Wattaneya\Desktop\APSNEy\Middleware\middelware m2 (branching)\obj\Debug\net10.0\ref\middelware m2 (branching).dll

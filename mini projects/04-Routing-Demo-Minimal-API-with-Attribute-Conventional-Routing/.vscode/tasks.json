@@ -1,0 +1,41 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "../../AppData/Roaming/Code/User/workspaceStorage/bcbe1a8ddcf298835f3db1dee57bab14/ms-dotnettools.csdevkit/04-Routing-Demo-Minimal-API-with-Attribute-Conventional-Routing.sln",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary;ForceNoAlign"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "../../AppData/Roaming/Code/User/workspaceStorage/bcbe1a8ddcf298835f3db1dee57bab14/ms-dotnettools.csdevkit/04-Routing-Demo-Minimal-API-with-Attribute-Conventional-Routing.sln",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary;ForceNoAlign"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "--project",
+                "../../AppData/Roaming/Code/User/workspaceStorage/bcbe1a8ddcf298835f3db1dee57bab14/ms-dotnettools.csdevkit/04-Routing-Demo-Minimal-API-with-Attribute-Conventional-Routing.sln"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

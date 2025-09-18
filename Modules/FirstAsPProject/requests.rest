@@ -1,0 +1,12 @@
+### GET Authors
+
+//header 
+GET http://localhost:5252/authors/uncle-Ahmed?title=My%20Book
+
+//body 
+
+Content-Type:  application/json
+
+{
+    "title": "My Book"
+}

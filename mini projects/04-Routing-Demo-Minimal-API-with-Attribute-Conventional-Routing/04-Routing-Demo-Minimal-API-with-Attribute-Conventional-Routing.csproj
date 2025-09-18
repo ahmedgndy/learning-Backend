@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>_04_Routing_Demo_Minimal_API_with_Attribute_Conventional_Routing</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jtm4TpuQ+Pw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\El-Wattaneya\\Desktop\\APSNEy\\Module#14 - API Versioning\\M02-َQueryStingVersioningController\\M01-urlPathVersioningController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

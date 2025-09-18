@@ -1,0 +1,41 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "../../AppData/Roaming/Code/User/workspaceStorage/c793c97a7e1249075e02ae1b1d5e3923/ms-dotnettools.csdevkit/01- Configurable Weather API.sln",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary;ForceNoAlign"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "../../AppData/Roaming/Code/User/workspaceStorage/c793c97a7e1249075e02ae1b1d5e3923/ms-dotnettools.csdevkit/01- Configurable Weather API.sln",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary;ForceNoAlign"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "--project",
+                "../../AppData/Roaming/Code/User/workspaceStorage/c793c97a7e1249075e02ae1b1d5e3923/ms-dotnettools.csdevkit/01- Configurable Weather API.sln"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\bin\Debug\net10.0\appsettings.json
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\bin\Debug\net10.0\05-Mini Project “User Info Collector API”.staticwebassets.endpoints.json
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\bin\Debug\net10.0\05-Mini Project “User Info Collector API”.exe
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\bin\Debug\net10.0\05-Mini Project “User Info Collector API”.deps.json
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\bin\Debug\net10.0\05-Mini Project “User Info Collector API”.runtimeconfig.json
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\bin\Debug\net10.0\05-Mini Project “User Info Collector API”.dll
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\bin\Debug\net10.0\05-Mini Project “User Info Collector API”.pdb
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\05-Mini Project “User Info Collector API”.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\05-Mini Project “User Info Collector API”.AssemblyInfoInputs.cache
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\05-Mini Project “User Info Collector API”.AssemblyInfo.cs
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\05-Mini Project “User Info Collector API”.csproj.CoreCompileInputs.cache
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\05-Mini Project “User Info Collector API”.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\scopedcss\bundle\05-Mini Project “User Info Collector API”.styles.css
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\05-Mini Project “User Info Collector API”.dll
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\refint\05-Mini Project “User Info Collector API”.dll
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\05-Mini Project “User Info Collector API”.pdb
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\05-Mini Project “User Info Collector API”.genruntimeconfig.cache
+C:\Users\El-Wattaneya\Desktop\mini projects\05-Mini Project “User Info Collector API”\obj\Debug\net10.0\ref\05-Mini Project “User Info Collector API”.dll

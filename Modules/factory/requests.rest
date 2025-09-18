@@ -1,0 +1,4 @@
+@baseUrl = http://localhost:5226
+
+
+{{baseUrl}}/pay/100

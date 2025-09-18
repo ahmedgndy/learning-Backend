@@ -1,0 +1,10 @@
+@base = http://localhost:5042
+
+## Get Configuration Value
+
+//GET {{base}}/serviceName
+
+GET {{base}}/serviceName
+
+## Get Configuration Value
+

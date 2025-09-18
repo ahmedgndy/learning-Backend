@@ -1,0 +1,15 @@
+@baseUrl = https://localhost:7134
+
+@productId = 2779ee47-10b0-4bd7-8342-404006aa1392
+
+ate: Wed, 14 May 2025 19:26:26 GMTServer: KestrelTransfer-Encoding: chunkedapi-supported-versions: 1, 2
+###
+GET {{baseUrl}}/api/products/{{productId}} 
+
+###
+GET {{baseUrl}}/api/products/{{productId}}
+api-version: 1.0
+
+###
+GET {{baseUrl}}/api/products/{{productId}}
+api-version: 2.0

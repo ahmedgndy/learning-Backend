@@ -1,0 +1,38 @@
+@base = https://localhost:7114
+
+###route parameter Endpoint
+GET  {{base}}/v1/user/20
+
+###QuieryString
+
+GET {{base}}/v1/user/query?name=Ahmed&age=25
+
+###header binding
+
+Get {{base}}/v1/user/header
+    X-language : English
+
+
+###From Binding
+
+POST  {{base}}/v1/user/from
+Content-Type: application/x-www-form-urlencoded
+
+password=2812&userName=aheme9&age=26
+
+
+###Body Binding
+
+POST  {{base}}/v1/user/body
+Content-Type: application/json
+
+{
+  "name": "Ahmad",
+  "age": 25,
+  "email": "ahmad@example.com"
+}
+
+###cookie Binding
+
+POST  {{base}}/v1/user/cookie
+Cookie: theme=dark; language=ar; timezone=UTC; access_token=eyJhbGciOi

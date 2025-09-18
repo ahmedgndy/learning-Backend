@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qH/dbfoUUmc=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\El-Wattaneya\\Desktop\\APSNEy\\modul1 4\\m04-medaitypeVersioningController\\m04-medaitypeVersioningController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

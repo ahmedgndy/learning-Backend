@@ -1,0 +1,66 @@
+     
+@base = https://localhost:7175
+
+@productId = 2779ee47-10b0-4bd7-8342-404006aa1392
+
+### options Request 
+
+OPTIONS  {{base}}/api/products
+
+### HEAD Request (Check for resources Existents)
+
+HEAD   {{base}}/api/products/{{productId}}
+
+
+###GEt Request (get product by id)
+
+GET   {{base}}/api/products/{{productId}}?includeReview=true
+###
+GET   {{base}}/api/products/{{productId}}
+
+### GET page for pagination 
+
+GET   {{base}}/api/products?page=1&PageSize=4
+
+###Create product
+post  {{base}}/api/products
+Content-Type: application/json
+
+{
+    "name" : "ldddove",
+    "price" : 124
+}
+
+###Update Product
+Put  {{base}}/api/products/{{productId}}
+Content-Type: application/json
+
+{
+    "name" : "product 1",
+    "price" : 124
+}
+
+
+###Delete a product 
+DELETE {{base}}/api/products/{{productId}}
+
+
+###Post Request for simulate a long-running Process
+
+POST {{base}}/api/products/process
+
+### Get products as CSV file
+Get  {{base}}/api/products/csv
+
+### Get products as CSV file (physical)
+Get  {{base}}/api/products/physical
+
+### redirection
+Get  {{base}}/api/products/product-legacy
+
+### Get xml 
+GET   {{base}}/api/products/{{productId}}
+Accept: application/xml
+### 
+GET   {{base}}/api/products/{{productId}}
+    

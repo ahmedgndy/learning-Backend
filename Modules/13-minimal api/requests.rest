@@ -1,0 +1,7 @@
+@base = http://localhost:5044
+@productId = 2779ee47-10b0-4bd7-8342-404006aa1392 
+
+###
+GEt {{base}}/text
+###
+Get {{base}}/json

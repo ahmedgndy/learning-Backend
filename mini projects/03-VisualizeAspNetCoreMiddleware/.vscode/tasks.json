@@ -1,0 +1,41 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "../../AppData/Roaming/Code/User/workspaceStorage/97e48a34a1c615f36f80e578a4d0108a/ms-dotnettools.csdevkit/03- Visualize ASP.NET Core Middleware (Ordering, Branching & Streaming).sln",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary;ForceNoAlign"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "../../AppData/Roaming/Code/User/workspaceStorage/97e48a34a1c615f36f80e578a4d0108a/ms-dotnettools.csdevkit/03- Visualize ASP.NET Core Middleware (Ordering, Branching & Streaming).sln",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary;ForceNoAlign"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "--project",
+                "../../AppData/Roaming/Code/User/workspaceStorage/97e48a34a1c615f36f80e578a4d0108a/ms-dotnettools.csdevkit/03- Visualize ASP.NET Core Middleware (Ordering, Branching & Streaming).sln"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
