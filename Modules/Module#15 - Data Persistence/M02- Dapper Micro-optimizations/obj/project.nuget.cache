@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7nMDKTCMg7o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M02- Dapper Micro-optimizations\\M02- Dapper Micro-optimizations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.data.sqlite\\9.0.9\\microsoft.data.sqlite.9.0.9.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.9\\microsoft.data.sqlite.core.9.0.9.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
