@@ -26,12 +26,13 @@ public static class ProductEndpoints
     private static async Task<IResult> GetPaged(
        IProductRepository repository,
         int page = 1,
-        int pageSize = 10)
+        int pageSize = 10,
+        CancellationToken ef = default)
     {
         page = Math.Max(1, page);
         pageSize = Math.Clamp(pageSize, 1, 100);
 
-        int totalCount = await repository.GetProductsCountAsync();
+        int totalCount = await repository.GetProductsCountAsync(ef);
 
         var products = await repository.GetProductsPageAsync(page, pageSize);
 
@@ -46,9 +47,10 @@ public static class ProductEndpoints
 
     private static async Task<Results<Ok<ProductResponse>, NotFound<string>>> GetProductById(Guid productId,
                                                                                              IProductRepository repository,
-                                                                                             bool includeReviews = false)
+                                                                                             bool includeReviews = false ,
+                                                                                              CancellationToken ef = default)
     {
-        var product = await repository.GetByIdAsync(productId);
+        var product = await repository.GetByIdAsync(productId , ef);
 
         if (product is null)
             return TypedResults.NotFound($"Product with Id '{productId}' not found");
@@ -59,9 +61,9 @@ public static class ProductEndpoints
         return TypedResults.Ok(ProductResponse.FromModel(product));
     }
 
-    private static async Task<IResult> CreateProduct(CreateProductRequest request, IProductRepository repository)
+    private static async Task<IResult> CreateProduct(CreateProductRequest request, IProductRepository repository , CancellationToken ef = default)
     {
-        if (await repository.ExistingByNameAsync(request.Name))
+        if (await repository.ExistingByNameAsync(request.Name , ef))
             return Results.Conflict($"A product with the name '{request.Name}' already exists.");
 
         var product = new Product
@@ -80,9 +82,9 @@ public static class ProductEndpoints
 
     
 
-    private static async Task<IResult> Put(Guid productId, UpdateProductRequest request, IProductRepository repository)
+    private static async Task<IResult> Put(Guid productId, UpdateProductRequest request, IProductRepository repository , CancellationToken ef =default)
     {
-        var product = await repository.GetByIdAsync(productId);
+        var product = await repository.GetByIdAsync(productId, ef );
 
         if (product is null)
             return Results.NotFound($"Product with Id '{productId}' not found");
@@ -90,7 +92,7 @@ public static class ProductEndpoints
         product.Name = request.Name;
         product.Price = request.Price ?? 0;
 
-        var succeeded = await repository.UpdateAsync(product);
+        var succeeded = await repository.UpdateAsync(product, ef);
 
         if (!succeeded)
             return Results.StatusCode(500);
@@ -98,9 +100,9 @@ public static class ProductEndpoints
         return Results.NoContent();
     }
 
-    private static async Task<IResult> Delete(Guid productId, IProductRepository repository)
+    private static async Task<IResult> Delete(Guid productId, IProductRepository repository , CancellationToken ef = default)
     {
-        if (!await repository.ExistsByIdAsync(productId))
+        if (!await repository.ExistsByIdAsync(productId , ef ))
             return Results.NotFound($"Product with Id '{productId}' not found");
 
         var succeeded = await repository.DeleteAsync(productId);

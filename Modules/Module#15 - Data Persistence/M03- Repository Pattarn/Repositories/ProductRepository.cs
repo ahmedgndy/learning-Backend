@@ -15,43 +15,43 @@ public class ProductRepository : IProductRepository
 
         _context = context;
     }
-    public async Task<int> GetProductsCountAsync() => await _context.Products.CountAsync();
-    public async Task<IEnumerable<Product>> GetAllAsync() => await _context.Products.ToListAsync();
+    public async Task<int> GetProductsCountAsync(CancellationToken ef ) => await _context.Products.CountAsync(ef);
+    public async Task<IEnumerable<Product>> GetAllAsync(CancellationToken ef) => await _context.Products.ToListAsync(ef);
 
-    public async Task<IEnumerable<Product>> GetProductsPageAsync(int page, int pageSize)
+    public async Task<IEnumerable<Product>> GetProductsPageAsync(int page, int pageSize , CancellationToken ef)
     {
-        return await _context.Products.Skip((page - 1) * pageSize).Take(pageSize).ToArrayAsync();
+        return await _context.Products.Skip((page - 1) * pageSize).Take(pageSize).ToArrayAsync(ef);
     }
 
-  public async Task<bool> ExistingByNameAsync(String name)
+  public async Task<bool> ExistingByNameAsync(String name , CancellationToken ef)
     {
-        return await _context.Products.AnyAsync(p => name == p.Name);
+        return await _context.Products.AnyAsync(p => name == p.Name , ef);
     }
-    public async Task<Product?> GetByIdAsync(Guid id) => await _context.Products.FindAsync(id);
+    public async Task<Product?> GetByIdAsync(Guid id,CancellationToken ef) => await _context.Products.FindAsync(id,ef);
 
 
-    public async Task<bool> AddAsync(Product product)
+    public async Task<bool> AddAsync(Product product,CancellationToken ef)
     {
         _context.Products.Add(product);
-        var rowEffected = await _context.SaveChangesAsync();
+        var rowEffected = await _context.SaveChangesAsync(ef);
         return rowEffected > 1;
     }
 
-    public async Task<bool> UpdateAsync(Product product)
+    public async Task<bool> UpdateAsync(Product product, CancellationToken ef)
     {
         _context.Products.Update(product);
-        var rowEffected = await _context.SaveChangesAsync();
+        var rowEffected = await _context.SaveChangesAsync(ef);
         return rowEffected > 1;
     }
 
-    public async Task<bool> DeleteAsync(Guid id)
+    public async Task<bool> DeleteAsync(Guid id, CancellationToken ef)
     {
         var product = await _context.Products.FindAsync(id);
 
         if (product is not null)
         {
             _context.Products.Remove(product);
-            var rowEffected = await _context.SaveChangesAsync();
+            var rowEffected = await _context.SaveChangesAsync(ef);
             return rowEffected > 1;
 
         }
@@ -59,6 +59,7 @@ public class ProductRepository : IProductRepository
 
     }
 
-    public async Task<bool> ExistsByIdAsync(Guid id) => await _context.Products.AnyAsync(p => p.Id == id);
-    
+    public async Task<bool> ExistsByIdAsync(Guid id,CancellationToken ef) => await _context.Products.AnyAsync(p => p.Id == id, ef);
+
+
 }
