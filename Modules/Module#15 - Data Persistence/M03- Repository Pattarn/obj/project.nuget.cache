@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/UpRmLygOEM=",
+  "dgSpecHash": "WeHlXA101CM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\DataPersistence\\M01.EFCoreCodeFirst\\M01.EFCoreCodeFirst.csproj",
+  "projectFilePath": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M03- Repository Pattarn\\M03- Repository Pattarn.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\El-Wattaneya\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
@@ -14,15 +14,15 @@
     "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.codeanalysis.csharp.workspaces\\4.8.0\\microsoft.codeanalysis.csharp.workspaces.4.8.0.nupkg.sha512",
     "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\4.8.0\\microsoft.codeanalysis.workspaces.common.4.8.0.nupkg.sha512",
     "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.codeanalysis.workspaces.msbuild\\4.8.0\\microsoft.codeanalysis.workspaces.msbuild.4.8.0.nupkg.sha512",
-    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.5\\microsoft.data.sqlite.core.9.0.5.nupkg.sha512",
-    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.5\\microsoft.entityframeworkcore.9.0.5.nupkg.sha512",
-    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.5\\microsoft.entityframeworkcore.abstractions.9.0.5.nupkg.sha512",
-    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.5\\microsoft.entityframeworkcore.analyzers.9.0.5.nupkg.sha512",
-    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.entityframeworkcore.design\\9.0.5\\microsoft.entityframeworkcore.design.9.0.5.nupkg.sha512",
-    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.5\\microsoft.entityframeworkcore.relational.9.0.5.nupkg.sha512",
-    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.5\\microsoft.entityframeworkcore.sqlite.9.0.5.nupkg.sha512",
-    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.5\\microsoft.entityframeworkcore.sqlite.core.9.0.5.nupkg.sha512",
-    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.extensions.dependencymodel\\9.0.5\\microsoft.extensions.dependencymodel.9.0.5.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.9\\microsoft.data.sqlite.core.9.0.9.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.9\\microsoft.entityframeworkcore.9.0.9.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.9\\microsoft.entityframeworkcore.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.9\\microsoft.entityframeworkcore.analyzers.9.0.9.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.entityframeworkcore.design\\9.0.9\\microsoft.entityframeworkcore.design.9.0.9.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.9\\microsoft.entityframeworkcore.relational.9.0.9.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.9\\microsoft.entityframeworkcore.sqlite.9.0.9.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.9\\microsoft.entityframeworkcore.sqlite.core.9.0.9.nupkg.sha512",
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.extensions.dependencymodel\\9.0.9\\microsoft.extensions.dependencymodel.9.0.9.nupkg.sha512",
     "C:\\Users\\El-Wattaneya\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\El-Wattaneya\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
     "C:\\Users\\El-Wattaneya\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
@@ -34,11 +34,7 @@
     "C:\\Users\\El-Wattaneya\\.nuget\\packages\\system.composition.convention\\7.0.0\\system.composition.convention.7.0.0.nupkg.sha512",
     "C:\\Users\\El-Wattaneya\\.nuget\\packages\\system.composition.hosting\\7.0.0\\system.composition.hosting.7.0.0.nupkg.sha512",
     "C:\\Users\\El-Wattaneya\\.nuget\\packages\\system.composition.runtime\\7.0.0\\system.composition.runtime.7.0.0.nupkg.sha512",
-    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\system.composition.typedparts\\7.0.0\\system.composition.typedparts.7.0.0.nupkg.sha512",
-    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.7\\microsoft.netcore.app.ref.9.0.7.nupkg.sha512",
-    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.7\\microsoft.windowsdesktop.app.ref.9.0.7.nupkg.sha512",
-    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.7\\microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512",
-    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.7\\microsoft.netcore.app.host.win-x64.9.0.7.nupkg.sha512"
+    "C:\\Users\\El-Wattaneya\\.nuget\\packages\\system.composition.typedparts\\7.0.0\\system.composition.typedparts.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
