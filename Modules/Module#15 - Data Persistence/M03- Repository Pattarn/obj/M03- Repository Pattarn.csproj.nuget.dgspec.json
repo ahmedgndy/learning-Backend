@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M03- Repository Pattarn\\M03- Repository Pattarn.csproj": {}
+    "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M03- Repository Pattarn\\M03- Repository Pattarn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M03- Repository Pattarn\\M03- Repository Pattarn.csproj": {
+    "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M03- Repository Pattarn\\M03- Repository Pattarn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M03- Repository Pattarn\\M03- Repository Pattarn.csproj",
+        "projectUniqueName": "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M03- Repository Pattarn\\M03- Repository Pattarn.csproj",
         "projectName": "M03- Repository Pattarn",
-        "projectPath": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M03- Repository Pattarn\\M03- Repository Pattarn.csproj",
+        "projectPath": "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M03- Repository Pattarn\\M03- Repository Pattarn.csproj",
         "packagesPath": "C:\\Users\\El-Wattaneya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M03- Repository Pattarn\\obj\\",
+        "outputPath": "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M03- Repository Pattarn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

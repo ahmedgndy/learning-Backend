@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fMFVf5bs/F0=",
+  "dgSpecHash": "19D40p2dgkE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\El-Wattaneya\\Desktop\\mini projects\\8-Data Persistence\\DataPersistence\\M05.UnitOfWork\\M05.UnitOfWork.csproj",
+  "projectFilePath": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\DataPersistence\\M05.UnitOfWork\\M05.UnitOfWork.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\El-Wattaneya\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\El-Wattaneya\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

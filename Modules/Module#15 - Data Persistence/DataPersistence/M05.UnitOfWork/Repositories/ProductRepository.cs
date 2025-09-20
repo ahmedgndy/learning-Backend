@@ -34,6 +34,7 @@ public class ProductRepository(AppDbContext context) : IProductRepository
             .FirstOrDefaultAsync(r => r.ProductId == productId && r.Id == reviewId, ct);
     }
 
+
     public void AddProduct(Product product)
     {
         context.Products.Add(product);
@@ -41,11 +42,13 @@ public class ProductRepository(AppDbContext context) : IProductRepository
 
     public async Task AddProductReviewAsync(ProductReview review, CancellationToken ct = default)
     {
-        var product = await context.Products.FirstOrDefaultAsync(p => p.Id == review.ProductId, ct);
 
+
+        var product = await context.Products.FirstOrDefaultAsync(p => p.Id == review.ProductId, ct);
         if (product is null)
             throw new InvalidOperationException();
-
+        
+        
         context.ProductReviews.Add(review);
 
         var reviews = await context.ProductReviews

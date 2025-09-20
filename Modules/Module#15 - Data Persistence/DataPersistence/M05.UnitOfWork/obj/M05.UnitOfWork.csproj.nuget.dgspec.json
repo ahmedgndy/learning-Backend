@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\El-Wattaneya\\Desktop\\mini projects\\8-Data Persistence\\DataPersistence\\M05.UnitOfWork\\M05.UnitOfWork.csproj": {}
+    "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\DataPersistence\\M05.UnitOfWork\\M05.UnitOfWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\El-Wattaneya\\Desktop\\mini projects\\8-Data Persistence\\DataPersistence\\M05.UnitOfWork\\M05.UnitOfWork.csproj": {
+    "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\DataPersistence\\M05.UnitOfWork\\M05.UnitOfWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\El-Wattaneya\\Desktop\\mini projects\\8-Data Persistence\\DataPersistence\\M05.UnitOfWork\\M05.UnitOfWork.csproj",
+        "projectUniqueName": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\DataPersistence\\M05.UnitOfWork\\M05.UnitOfWork.csproj",
         "projectName": "M05.UnitOfWork",
-        "projectPath": "C:\\Users\\El-Wattaneya\\Desktop\\mini projects\\8-Data Persistence\\DataPersistence\\M05.UnitOfWork\\M05.UnitOfWork.csproj",
+        "projectPath": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\DataPersistence\\M05.UnitOfWork\\M05.UnitOfWork.csproj",
         "packagesPath": "C:\\Users\\El-Wattaneya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\El-Wattaneya\\Desktop\\mini projects\\8-Data Persistence\\DataPersistence\\M05.UnitOfWork\\obj\\",
+        "outputPath": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\DataPersistence\\M05.UnitOfWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
