@@ -1,0 +1,70 @@
+@baseUrl = https://localhost:7107
+
+### Controller API
+
+
+### Root
+GET {{baseUrl}}
+
+
+### Server Error
+GET {{baseUrl}}/api/controller-fake-errors/server-error
+
+### Bad Request
+POST {{baseUrl}}/api/controller-fake-errors/bad-request
+Content-Type: application/json
+
+### Bad Request
+POST {{baseUrl}}/api/controller-fake-errors/bad-request-no-body
+Content-Type: application/json
+
+### Bad Request 2
+POST {{baseUrl}}/api/controller-fake-errors/bad-request-2
+Content-Type: application/json
+
+
+### Not Found
+POST {{baseUrl}}/api/controller-fake-errors/not-found
+Content-Type: application/json
+
+### Unauthorized
+POST {{baseUrl}}/api/controller-fake-errors/unauthorized
+Content-Type: application/json
+
+### Conflict
+POST {{baseUrl}}/api/controller-fake-errors/conflict
+Content-Type: application/json
+
+### Business Rule Error
+POST {{baseUrl}}/api/controller-fake-errors/business-rule-error
+Content-Type: application/json
+
+# Minimal API
+
+### Server Error
+GET {{baseUrl}}/api/minimal-fake-errors/server-error
+Content-Type: application/json
+
+### Bad Request
+POST {{baseUrl}}/api/minimal-fake-errors/bad-request
+Content-Type: application/json
+
+### Bad Request
+POST {{baseUrl}}/api/minimal-fake-errors/bad-request-no-body
+Content-Type: application/json
+
+### Not Found
+POST {{baseUrl}}/api/minimal-fake-errors/not-found
+Content-Type: application/json
+
+### Unauthorized
+POST {{baseUrl}}/api/minimal-fake-errors/unauthorized
+Content-Type: application/json
+
+### Conflict
+POST {{baseUrl}}/api/minimal-fake-errors/conflict
+Content-Type: application/json
+
+### Business Rule Error
+POST {{baseUrl}}/api/minimal-fake-errors/business-rule-error
+Content-Type: application/json

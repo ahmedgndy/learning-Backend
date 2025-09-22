@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#16 - Filters, Metadata, and API Conventions\\M02-implemention-Filter-For-Minimal-Api\\M02-implemention-Filter-For-Minimal-Api.csproj": {}
+    "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#17 - Error Handling in ASP.NET Core APIs\\M02.DeveloperExceptionPage\\M02.DeveloperExceptionPage.csproj": {}
   },
   "projects": {
-    "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#16 - Filters, Metadata, and API Conventions\\M02-implemention-Filter-For-Minimal-Api\\M02-implemention-Filter-For-Minimal-Api.csproj": {
+    "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#17 - Error Handling in ASP.NET Core APIs\\M02.DeveloperExceptionPage\\M02.DeveloperExceptionPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#16 - Filters, Metadata, and API Conventions\\M02-implemention-Filter-For-Minimal-Api\\M02-implemention-Filter-For-Minimal-Api.csproj",
-        "projectName": "M02-implemention-Filter-For-Minimal-Api",
-        "projectPath": "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#16 - Filters, Metadata, and API Conventions\\M02-implemention-Filter-For-Minimal-Api\\M02-implemention-Filter-For-Minimal-Api.csproj",
+        "projectUniqueName": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#17 - Error Handling in ASP.NET Core APIs\\M02.DeveloperExceptionPage\\M02.DeveloperExceptionPage.csproj",
+        "projectName": "M02.DeveloperExceptionPage",
+        "projectPath": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#17 - Error Handling in ASP.NET Core APIs\\M02.DeveloperExceptionPage\\M02.DeveloperExceptionPage.csproj",
         "packagesPath": "C:\\Users\\El-Wattaneya\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#16 - Filters, Metadata, and API Conventions\\M02-implemention-Filter-For-Minimal-Api\\obj\\",
+        "outputPath": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#17 - Error Handling in ASP.NET Core APIs\\M02.DeveloperExceptionPage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

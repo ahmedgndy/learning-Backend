@@ -1,0 +1,27 @@
+@baseUrl = https://localhost:7107
+
+# Minimal API
+
+### Server Error
+GET {{baseUrl}}/api/minimal-fake-errors/server-error
+Content-Type: application/json
+
+### Bad Request
+POST {{baseUrl}}/api/minimal-fake-errors/bad-request
+Content-Type: application/json
+
+### Not Found
+POST {{baseUrl}}/api/minimal-fake-errors/not-found
+Content-Type: application/json
+
+### Unauthorized
+POST {{baseUrl}}/api/minimal-fake-errors/unauthorized
+Content-Type: application/json
+
+### Conflict
+POST {{baseUrl}}/api/minimal-fake-errors/conflict
+Content-Type: application/json
+
+### Business Rule Error
+POST {{baseUrl}}/api/minimal-fake-errors/business-rule-error
+Content-Type: application/json
