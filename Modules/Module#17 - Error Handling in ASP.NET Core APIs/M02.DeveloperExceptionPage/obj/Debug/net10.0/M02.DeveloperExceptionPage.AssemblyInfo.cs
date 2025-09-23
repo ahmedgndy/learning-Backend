@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("M02.DeveloperExceptionPage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0aafd95db36f54a0f49c30d9476c326802477fb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bee257790bde109241448ee2ec874c3975a7797")]
 [assembly: System.Reflection.AssemblyProductAttribute("M02.DeveloperExceptionPage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("M02.DeveloperExceptionPage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

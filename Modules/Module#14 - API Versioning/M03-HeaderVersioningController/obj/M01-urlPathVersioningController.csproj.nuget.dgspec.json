@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#14 - API Versioning\\M03-HeaderVersioningController\\M01-urlPathVersioningController.csproj": {}
+    "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#14 - API Versioning\\M03-HeaderVersioningController\\M01-urlPathVersioningController.csproj": {}
   },
   "projects": {
-    "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#14 - API Versioning\\M03-HeaderVersioningController\\M01-urlPathVersioningController.csproj": {
+    "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#14 - API Versioning\\M03-HeaderVersioningController\\M01-urlPathVersioningController.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#14 - API Versioning\\M03-HeaderVersioningController\\M01-urlPathVersioningController.csproj",
+        "projectUniqueName": "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#14 - API Versioning\\M03-HeaderVersioningController\\M01-urlPathVersioningController.csproj",
         "projectName": "M01-urlPathVersioningController",
-        "projectPath": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#14 - API Versioning\\M03-HeaderVersioningController\\M01-urlPathVersioningController.csproj",
+        "projectPath": "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#14 - API Versioning\\M03-HeaderVersioningController\\M01-urlPathVersioningController.csproj",
         "packagesPath": "C:\\Users\\El-Wattaneya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#14 - API Versioning\\M03-HeaderVersioningController\\obj\\",
+        "outputPath": "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#14 - API Versioning\\M03-HeaderVersioningController\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

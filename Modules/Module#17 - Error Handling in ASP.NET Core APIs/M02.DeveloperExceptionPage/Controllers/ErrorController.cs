@@ -10,11 +10,22 @@ public class ErrorEndpoints : ControllerBase
 {
     [Route("/error")]
 
-    public IActionResult HandelErrorProduction() => new ObjectResult(new
-    {
-        StatusCode = 500,
-        Message = "Internal Server Error"
-    });
+    public IActionResult HandelErrorProduction() {
+
+        var problemDetails = new ProblemDetails{
+    Type = "https://example.com/errors/internal-server-error", // a URI identifying the error type
+    Title = "Internal Server Error",                           // short summary
+    Status = StatusCodes.Status500InternalServerError,         // correct status code constant
+    Detail = "An unexpected error occurred.",                  // human-readable details
+    Instance = HttpContext.Request.Path                        // the request path that caused the error
+};
+
+return new ObjectResult(problemDetails)
+{
+    StatusCode = problemDetails.Status
+};
+    }
+    
 
 
     [Route("/error-Development")]
@@ -25,14 +36,19 @@ public class ErrorEndpoints : ControllerBase
             return NotFound();
         }
         var exceptionHandler = HttpContext.Features.Get<IExceptionHandlerFeature>()!;
+
+        var problemDetails = new ProblemDetails{
+                Type = "https://example.com/errors/internal-server-error", // a URI identifying the error type
+                Title = "Internal Server Error",                           // short summary
+                Status = StatusCodes.Status500InternalServerError,         // correct status code constant
+                 Detail = exceptionHandler.Error.StackTrace,                  // human-readable details
+                Instance = HttpContext.Request.Path                        // the request path that caused the error
+};
         
-        return new ObjectResult(new
+        return new ObjectResult(problemDetails)
         {
-            detail = exceptionHandler.Error.StackTrace,
-
-            title = exceptionHandler.Error.Message
-
-        });
+            StatusCode = problemDetails.Status
+        };
 
      }
    

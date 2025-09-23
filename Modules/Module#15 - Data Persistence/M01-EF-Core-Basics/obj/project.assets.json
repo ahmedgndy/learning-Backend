@@ -2233,11 +2233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\El-Wattaneya\\Desktop\\mini projects\\8-Data Persistence\\M01-EF-Core-Basics\\M01-EF-Core-Basics.csproj",
+      "projectUniqueName": "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M01-EF-Core-Basics\\M01-EF-Core-Basics.csproj",
       "projectName": "M01-EF-Core-Basics",
-      "projectPath": "C:\\Users\\El-Wattaneya\\Desktop\\mini projects\\8-Data Persistence\\M01-EF-Core-Basics\\M01-EF-Core-Basics.csproj",
+      "projectPath": "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M01-EF-Core-Basics\\M01-EF-Core-Basics.csproj",
       "packagesPath": "C:\\Users\\El-Wattaneya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\El-Wattaneya\\Desktop\\mini projects\\8-Data Persistence\\M01-EF-Core-Basics\\obj\\",
+      "outputPath": "c:\\Users\\El-Wattaneya\\Desktop\\learning backend\\Modules\\Module#15 - Data Persistence\\M01-EF-Core-Basics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
